@@ -9,7 +9,7 @@ Python 3 wrapper for [Panda's dynamics model](https://github.com/marcocognetti/F
 
 Install Eigen3: `sudo apt install libeigen3-dev`
 
-Install the wrapper: `pip install panda-dynamics-model`
+Install the wrapper: `git clone git@github.com:HIRO-group/panda-dynamics-model.git && pip install panda-dynamics-model`
 
 Example:
 ```python
