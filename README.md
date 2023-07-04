@@ -8,6 +8,7 @@ Python 3 wrapper for [Panda's dynamics model](https://github.com/marcocognetti/F
 
 
 Install Eigen3: `sudo apt install libeigen3-dev`
+Install pybind: `pip install pybind11`
 
 `sudo cp -r /usr/include/eigen3/Eigen /usr/include`
 
